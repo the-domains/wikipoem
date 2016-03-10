@@ -1,0 +1,14 @@
+layout_spectrum: 0.5170213
+color:
+  saturation: 0.7011001
+  lightness: 0.6328002
+  brandStrength: 1
+  brandColors:
+    - '#1E1F1F'
+    - '#C6B5A3'
+    - '#4C4C4B'
+    - '#89A265'
+    - '#F29166'
+  rhythmicContrast: 0.003947833
+typography_spectrum: 0.6893617
+name: Wikipoem

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wikipoem]]></title>
         <description><![CDATA[Wikipoem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wikipoem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:51:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 16:55:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wikipoem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wikipedia Poem, No. 180]]></title>
+            <description><![CDATA[<p>a word augustus?on cities and positionscapability of technique</p>]]></description>
+            <link>https://thegrid.ai/wikipoem/wikipedia-poem-no-180/index.html</link>
+            <guid isPermaLink="false">bd4644bc-0d3e-4b79-b71a-930bdddbb2b1</guid>
+            <pubDate>Mon, 25 Apr 2016 16:55:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/208c0872-3d87-45e8-86bf-77c758888ba3.png">]]></description>
-            <link>undefineda63aa9f3-29bb-4c60-9044-7d6b98a662d0/index.html</link>
+            <link>https://thegrid.ai/wikipoem/a63aa9f3-29bb-4c60-9044-7d6b98a662d0/index.html</link>
             <guid isPermaLink="false">a63aa9f3-29bb-4c60-9044-7d6b98a662d0</guid>
             <pubDate>Thu, 10 Mar 2016 22:50:27 GMT</pubDate>
         </item>
